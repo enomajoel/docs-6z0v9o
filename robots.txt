@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-h1xmkn.date-me.pro/sitemap.xml
